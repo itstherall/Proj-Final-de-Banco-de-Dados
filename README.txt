@@ -1,0 +1,1 @@
+Dentro da pasta banco de dados esta o codigo em java na qual faz conexao com o banco de dados pelo postegresql previamente criado na atividade, la tbm estão os drivers na past lib. O codigo foi criado atravez da IDE eclipse.
